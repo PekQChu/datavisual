@@ -1,0 +1,191 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="Python 3.5" />
+      <type value="Python SDK" />
+      <version value="Python 3.5.4" />
+      <homePath value="C:\Program Files\Python35\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://C:/Program Files/Python35/DLLs" type="simple" />
+            <root url="file://C:/Program Files/Python35/Lib" type="simple" />
+            <root url="file://C:/Program Files/Python35" type="simple" />
+            <root url="file://C:/Program Files/Python35/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/python_stubs/-1249248731" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.5 (pythonProject)" />
+      <type value="Python SDK" />
+      <version value="Python 3.5.4" />
+      <homePath value="F:\pythonProject\venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://C:/Program Files/Python35/DLLs" type="simple" />
+            <root url="file://C:/Program Files/Python35/Lib" type="simple" />
+            <root url="file://C:/Program Files/Python35" type="simple" />
+            <root url="file://F:/pythonProject/venv" type="simple" />
+            <root url="file://F:/pythonProject/venv/Lib/site-packages" type="simple" />
+            <root url="jar://F:/pythonProject/venv/Lib/site-packages/setuptools-28.8.0-py3.5.egg!/" type="simple" />
+            <root url="file://F:/pythonProject/venv/Lib/site-packages/pip-9.0.1-py3.5.egg" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/python_stubs/-1505721518" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="F:/pythonProject" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.5 (chamberminotor)" />
+      <type value="Python SDK" />
+      <version value="Python 3.5.4" />
+      <homePath value="F:\pythonProject\chamberminotor\venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://C:/Program Files/Python35/DLLs" type="simple" />
+            <root url="file://C:/Program Files/Python35/Lib" type="simple" />
+            <root url="file://C:/Program Files/Python35" type="simple" />
+            <root url="file://F:/pythonProject/chamberminotor/venv" type="simple" />
+            <root url="file://F:/pythonProject/chamberminotor/venv/Lib/site-packages" type="simple" />
+            <root url="jar://F:/pythonProject/chamberminotor/venv/Lib/site-packages/setuptools-28.8.0-py3.5.egg!/" type="simple" />
+            <root url="file://F:/pythonProject/chamberminotor/venv/Lib/site-packages/pip-9.0.1-py3.5.egg" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/python_stubs/-1164264071" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="F:/pythonProject/chamberminotor" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.5 (datavisual)" />
+      <type value="Python SDK" />
+      <version value="Python 3.5.4" />
+      <homePath value="F:\pythonProject\datavisual\venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://C:/Program Files/Python35/DLLs" type="simple" />
+            <root url="file://C:/Program Files/Python35/Lib" type="simple" />
+            <root url="file://C:/Program Files/Python35" type="simple" />
+            <root url="file://F:/pythonProject/datavisual/venv" type="simple" />
+            <root url="file://F:/pythonProject/datavisual/venv/Lib/site-packages" type="simple" />
+            <root url="jar://F:/pythonProject/datavisual/venv/Lib/site-packages/setuptools-28.8.0-py3.5.egg!/" type="simple" />
+            <root url="file://F:/pythonProject/datavisual/venv/Lib/site-packages/pip-9.0.1-py3.5.egg" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/python_stubs/1207707367" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="F:/pythonProject/datavisual" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.5 virtualenv at F:\pythonProject\dataprocess\venv" />
+      <type value="Python SDK" />
+      <version value="Python 3.5.4" />
+      <homePath value="F:\pythonProject\dataprocess\venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://C:/Program Files/Python35/Lib" type="simple" />
+            <root url="file://C:/Program Files/Python35/DLLs" type="simple" />
+            <root url="file://F:/pythonProject/dataprocess/venv" type="simple" />
+            <root url="file://F:/pythonProject/dataprocess/venv/Lib/site-packages" type="simple" />
+            <root url="jar://F:/pythonProject/dataprocess/venv/Lib/site-packages/setuptools-28.8.0-py3.5.egg!/" type="simple" />
+            <root url="file://F:/pythonProject/dataprocess/venv/Lib/site-packages/pip-9.0.1-py3.5.egg" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/python_stubs/-789952952" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="F:/pythonProject/dataprocess" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.5 (AirGain)" />
+      <type value="Python SDK" />
+      <version value="Python 3.5.4" />
+      <homePath value="F:\pythonProject\AirGain\venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://C:/Program Files/Python35/DLLs" type="simple" />
+            <root url="file://C:/Program Files/Python35/Lib" type="simple" />
+            <root url="file://C:/Program Files/Python35" type="simple" />
+            <root url="file://F:/pythonProject/AirGain/venv" type="simple" />
+            <root url="file://F:/pythonProject/AirGain/venv/Lib/site-packages" type="simple" />
+            <root url="jar://F:/pythonProject/AirGain/venv/Lib/site-packages/setuptools-28.8.0-py3.5.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/python_stubs/1341402124" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="F:/pythonProject/AirGain" />
+    </jdk>
+  </component>
+</application>
